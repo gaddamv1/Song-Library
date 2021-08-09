@@ -1,0 +1,4 @@
+A|B|Something|1000|true|true
+B|C|||false|false
+A|A|||false|false
+Blinding Light|The Weeknd|||false|false
